@@ -296,4 +296,20 @@ main {
         top: 2px;
     }
 
+    #children{
+        display: flex;
+        flex-direction: column;
+    }
+    #children img{
+        width: 200px;
+    }
+    .rightmac img{
+        width: 400px;   
+    }
+    .rightmac video {
+        position: absolute;
+        top: 40px;
+        left: 118px;
+        width: 28vh;
+    } 
 }
